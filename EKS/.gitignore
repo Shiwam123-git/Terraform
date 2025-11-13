@@ -1,0 +1,3 @@
+.terrform/*
+*.teraform.lock.hcl
+.terraform.tfstate
